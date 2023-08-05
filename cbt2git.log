@@ -1,0 +1,88 @@
+2023-08-06 01:20:00.051819 - Initialized conversion of CBT137
+2023-08-06 01:20:00.686559 - Received CBT.V505.FILE137.PDS from FILE137.XMI 
+2023-08-06 01:20:00.689249 - Found $$$$READ.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/$$$$READ
+2023-08-06 01:20:00.690318 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:20:00.691359 - Found $$$DESC.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/$$$DESC
+2023-08-06 01:20:00.692405 - Found $$$MEMBS.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/$$$MEMBS
+2023-08-06 01:20:00.694327 - De-xmi-ed $$BATCH to CBT137/docs/$$BATCH.docx
+2023-08-06 01:20:00.696286 - De-xmi-ed $$INSTAL to CBT137/docs/$$INSTAL.docx
+2023-08-06 01:20:00.697377 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/$$NOTE01
+2023-08-06 01:20:00.699271 - De-xmi-ed $$REPORT to CBT137/docs/$$REPORT.docx
+2023-08-06 01:20:00.701377 - De-xmi-ed $$REPT to CBT137/docs/$$REPT.docx
+2023-08-06 01:20:00.703233 - De-xmi-ed $$RFILE to CBT137/docs/$$RFILE.docx
+2023-08-06 01:20:00.747010 - Found $LOADLIB.xmi (application/xmit) in CBT.V505.FILE137.PDS
+2023-08-06 01:20:00.767226   - Received RECFM=U data, stored XMIT file as CBT137/$LOADLIB.xmi
+2023-08-06 01:20:00.768174 - Found @FILE137.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/@FILE137
+2023-08-06 01:20:00.769063 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/ASMJCL
+2023-08-06 01:20:00.769989 - Found CICSCOM.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/CICSCOM
+2023-08-06 01:20:00.770951 - Found CICSCSDD.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/CICSCSDD
+2023-08-06 01:20:00.770958 - Found CICSRP01.bin containing application/octet-stream, moved to PDS/CICSRP01
+2023-08-06 01:20:00.771941 - Found CICSRP02.bin containing application/octet-stream, moved to PDS/CICSRP02
+2023-08-06 01:20:00.772863 - Found CICSRP03.bin containing application/octet-stream, moved to PDS/CICSRP03
+2023-08-06 01:20:00.774773 - Found COMPJCL.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/COMPJCL
+2023-08-06 01:20:00.775657 - Found COMPMAP.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/COMPMAP
+2023-08-06 01:20:00.776531 - Found HELPLOAD.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/HELPLOAD
+2023-08-06 01:20:00.776540 - Found HELPREPR.bin containing application/octet-stream, moved to PDS/HELPREPR
+2023-08-06 01:20:00.778374 - Found HELPREPS.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/HELPREPS
+2023-08-06 01:20:00.779305 - Found HELPREPT.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/HELPREPT
+2023-08-06 01:20:00.780182 - Found HELPREPU.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/HELPREPU
+2023-08-06 01:20:00.781142 - Found HELPREXX.rexx (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/HELPREXX
+2023-08-06 01:20:00.781149 - Found HELPRXJ.bin containing application/octet-stream, moved to PDS/HELPRXJ
+2023-08-06 01:20:00.783029 - Found RENAME.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/RENAME
+2023-08-06 01:20:00.784001 - Found REPROJ2.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPROJ2
+2023-08-06 01:20:00.784903 - Found REPROJ3.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPROJ3
+2023-08-06 01:20:00.785884 - Found REPTB01.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB01
+2023-08-06 01:20:00.786802 - Found REPTB02.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB02
+2023-08-06 01:20:00.787708 - Found REPTB03.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB03
+2023-08-06 01:20:00.788640 - Found REPTB04.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB04
+2023-08-06 01:20:00.789631 - Found REPTB05.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB05
+2023-08-06 01:20:00.790527 - Found REPTB06.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB06
+2023-08-06 01:20:00.791405 - Found REPTB07.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB07
+2023-08-06 01:20:00.792260 - Found REPTB08.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB08
+2023-08-06 01:20:00.793192 - Found REPTB09.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTB09
+2023-08-06 01:20:00.794115 - Found REPTC01.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC01
+2023-08-06 01:20:00.795183 - Found REPTC02.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC02
+2023-08-06 01:20:00.796071 - Found REPTC03.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC03
+2023-08-06 01:20:00.796944 - Found REPTC04.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC04
+2023-08-06 01:20:00.797915 - Found REPTC05.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC05
+2023-08-06 01:20:00.798886 - Found REPTC06.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTC06
+2023-08-06 01:20:00.799739 - Found REPTDEFD.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTDEFD
+2023-08-06 01:20:00.800578 - Found REPTDEFH.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTDEFH
+2023-08-06 01:20:00.800589 - Found REPTDEFI.bin containing application/octet-stream, moved to PDS/REPTDEFI
+2023-08-06 01:20:00.802388 - Found REPTDEFT.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTDEFT
+2023-08-06 01:20:00.803340 - Found REPTDEFU.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTDEFU
+2023-08-06 01:20:00.804237 - Found REPTDEFX.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTDEFX
+2023-08-06 01:20:00.805100 - Found REPTS10.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPTS10
+2023-08-06 01:20:00.806051 - Found REPT015.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT015
+2023-08-06 01:20:00.806060 - Found REPT015J.bin containing application/octet-stream, moved to PDS/REPT015J
+2023-08-06 01:20:00.807785 - Found REPT015X.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT015X
+2023-08-06 01:20:00.808664 - Found REPT020.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT020
+2023-08-06 01:20:00.809596 - Found REPT020J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT020J
+2023-08-06 01:20:00.810543 - Found REPT020X.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT020X
+2023-08-06 01:20:00.811399 - Found REPT020Y.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT020Y
+2023-08-06 01:20:00.812228 - Found REPT025.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT025
+2023-08-06 01:20:00.813119 - Found REPT025J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT025J
+2023-08-06 01:20:00.814038 - Found REPT025X.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT025X
+2023-08-06 01:20:00.814946 - Found REPT026.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT026
+2023-08-06 01:20:00.815851 - Found REPT026J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT026J
+2023-08-06 01:20:00.816782 - Found REPT027.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT027
+2023-08-06 01:20:00.817754 - Found REPT027J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT027J
+2023-08-06 01:20:00.818677 - Found REPT028.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT028
+2023-08-06 01:20:00.819625 - Found REPT028J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT028J
+2023-08-06 01:20:00.820565 - Found REPT126.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT126
+2023-08-06 01:20:00.821446 - Found REPT126J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT126J
+2023-08-06 01:20:00.822342 - Found REPT127.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT127
+2023-08-06 01:20:00.823256 - Found REPT127J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT127J
+2023-08-06 01:20:00.824194 - Found REPT128.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT128
+2023-08-06 01:20:00.825130 - Found REPT128J.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REPT128J
+2023-08-06 01:20:00.826007 - Found REXXDLST.rexx (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXDLST
+2023-08-06 01:20:00.826899 - Found REXXILST.rexx (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXILST
+2023-08-06 01:20:00.827745 - Found REXXJCL.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXJCL
+2023-08-06 01:20:00.828639 - Found REXXJCLL.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXJCLL
+2023-08-06 01:20:00.829494 - Found REXXJCLX.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXJCLX
+2023-08-06 01:20:00.830394 - Found REXXJCL1.jcl (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXJCL1
+2023-08-06 01:20:00.831221 - Found REXXTLST.rexx (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/REXXTLST
+2023-08-06 01:20:00.832208 - Found RPMP001.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/RPMP001
+2023-08-06 01:20:00.833237 - Found RPMP002.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/RPMP002
+2023-08-06 01:20:00.834180 - Found RPMP003.txt (text/plain) in CBT.V505.FILE137.PDS, moved to PDS/RPMP003
+2023-08-06 01:20:00.834187 - Found USERIDJC.bin containing application/octet-stream, moved to PDS/USERIDJC
